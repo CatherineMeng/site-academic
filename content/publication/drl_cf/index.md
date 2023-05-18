@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/content/publication/mcts_fpga/ovw.PNG)'
+  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/content/publication/drl_cf/system_overview.pdf)'
   focal_point: ''
   preview_only: false
 
