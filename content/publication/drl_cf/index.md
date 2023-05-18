@@ -1,5 +1,5 @@
 ---
-title: 'A Framework for Monte-Carlo Tree Search on CPU-FPGA Heterogeneous Platform via on-chip Dynamic Tree Management'
+title: 'FPGA acceleration of Deep Reinforcement Learning Using On-chip Replay Management'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,7 +32,7 @@ publication_short: In *ACM CF*
 # abstract: 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
