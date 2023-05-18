@@ -33,12 +33,13 @@ sections:
       title: Featured Projects
       filters:
         folders:
-          - publication
+          - project
         featured_only: true
     design:
       columns: '2'
       view: card
   - block: collection
+    id: recent_pub
     content:
       title: Recent Publications
       text: |-
@@ -92,6 +93,7 @@ sections:
     design:
       columns: '2'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
