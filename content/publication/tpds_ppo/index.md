@@ -22,28 +22,17 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Parallel and Distributed Systems*(1)"
-publication_short: "TPDS"
-
-abstract: Proximal Policy Optimization (PPO) is the state-of-the-art policy optimization based RL algorithm which achieves superior overall performance on various benchmarks. A PPO agent iteratively optimizes its policy - a function which chooses optimal actions approximated by a DNN, with each iteration consisting of two computationally intensive phases,  Sample Generation, where agents inference on its policy and interact with the environment to collect data, and Model Update, where the policy is trained using the collected data. 
-In this paper, we develop the first high-throughput PPO accelerator on CPU-FPGA heterogeneous platform. 
+publication_short: "IEEE/TPDS"
 
 tags:
-- Proximal Policy Optimization
-- Accelerator Design
-- FPGA
+  - Proximal Policy Optimization
+  - Accelerator Design
+  - FPGA
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
 url_pdf: https://drive.google.com/file/d/1nIggaAom2gjh76Rftho-7z3EChoi43nM/view?usp=sharing
 url_code: 'https://github.com/CatherineMeng/PPO_2CU'
-url_dataset: ''
-url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -52,11 +41,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 ---
 
