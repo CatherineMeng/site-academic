@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Parallel and Distributed Systems*(1)"
 publication_short: "TPDS"
 
-abstract: Proximal Policy Optimization (PPO) is the state-of-the-art policy optimization based RL algorithm which achieves superior overall performance on various benchmarks. A PPO agent iteratively optimizes its policy - a function which chooses optimal actions approximated by a DNN, with each iteration consisting of two computationally intensive phases: Sample Generation - where agents inference on its policy and interact with the environment to collect data, and Model Update - where the policy is trained using the collected data. 
+abstract: Proximal Policy Optimization (PPO) is the state-of-the-art policy optimization based RL algorithm which achieves superior overall performance on various benchmarks. A PPO agent iteratively optimizes its policy - a function which chooses optimal actions approximated by a DNN, with each iteration consisting of two computationally intensive phases,  Sample Generation, where agents inference on its policy and interact with the environment to collect data, and Model Update, where the policy is trained using the collected data. 
 In this paper, we develop the first high-throughput PPO accelerator on CPU-FPGA heterogeneous platform. 
 
 # Summary. An optional shortened abstract.
