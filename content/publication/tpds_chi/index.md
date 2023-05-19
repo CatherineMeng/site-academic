@@ -4,14 +4,12 @@ authors:
 - Chi Zhang
 - admin
 - Viktor Prasanna
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-date: "2023"
+
+date: "2023-4-5"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023"
+publishDate: "2023-4-5"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,16 +22,14 @@ publication: "*IEEE Transactions on Parallel and Distributed Systems*(1)"
 publication_short: "TPDS"
 
 abstract: Despite the recent success of Deep Reinforcement Learning (DRL) in self-driving cars, robotics and surveillance, training DRL agents takes tremendous amount of time and computation resources. We aim to accelerate DRL with Prioritized Replay Buffer due to its state-of-the-art performance on various benchmarks. The computation primitives of DRL with Prioritized Replay Buffer include environment emulation, neural network inference, sampling from Prioritized Replay Buffer, updating Prioritized Replay Buffer and neural network training. The speed of running these primitives varies for various DRL algorithms, making a fixed mapping of DRL algorithms inefficient. In this work, we propose a framework for mapping DRL algorithms onto heterogeneous platforms consisting of a multi-core CPU, a GPU and a FPGA.
-
+s
 
 tags:
 - Deep Reinforcement Learning
 - Heterogeneous Computing
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+
 url_pdf: https://drive.google.com/drive/u/1/folders/1nabQX4KdmBlfyR2SZK4rNjWEgUWDXQFq
 url_code: 'https://github.com/vermouth1992/hipc21'
 url_dataset: ''
