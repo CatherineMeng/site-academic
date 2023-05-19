@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/images/tpds_img.PNG)'
+  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/content/publication/tpds_chi/tpds_img.PNG)'
   focal_point: ""
   preview_only: false
 
@@ -59,7 +59,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
