@@ -130,10 +130,10 @@ sections:
           location: California
           date_start: '2018-01-01'
           date_end: '2018-06-20'
-          description: 
-          Prototyping for Animatronics and games;
+          description: |2-
+              Prototyping for Animatronics and games;
 
-          Research on embedded voice recognition and computer vision applications in toys.
+              Research on embedded voice recognition and computer vision applications in toys.
     design:
       columns: '2'
   - block: features
