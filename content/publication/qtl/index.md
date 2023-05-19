@@ -1,5 +1,5 @@
 ---
-title: 'QTAccel: A Generic FPGA based design for Q-Table based reinforcement learning accelerators'
+title: 'QTAccel: A Generic FPGA based Design for Q-Table based Reinforcement Learning Accelerators'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

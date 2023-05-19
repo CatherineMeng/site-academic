@@ -1,5 +1,5 @@
 ---
-title: 'How to efficiently train your ai agent? characterizing and evaluating deep reinforcement learning on heterogeneous platforms'
+title: 'How to Efficiently Train Your AI Agent? Characterizing and Evaluating Reep Reinforcement Learning on Heterogeneous Platforms'
 authors:
   - admin
   - Yang Yang

@@ -1,5 +1,5 @@
 ---
-title: 'How to avoid zero-spacing in fractionally-strided convolution? a hardware-algorithm co-design methodology'
+title: 'How to Avoid Zero-spacing in Fractionally-Strided Convolution? A Hardware-Algorithm Co-design Methodology'
 authors:
   - admin
   - Sanmukh Kuppannagari
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'A multi-channel-multi-kernel kn2row approach for FSC'
+  caption: 'A Multi-Channel-Multi-Kernel KN2ROW Approach for FSC'
   focal_point: ''
   preview_only: false
 

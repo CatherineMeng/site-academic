@@ -1,5 +1,5 @@
 ---
-title: 'Dynamap: Dynamic algorithm mapping framework for low latency cnn inference'
+title: 'Dynamap: Dynamic Algorithm Mapping Framework for Low Latency CNN Inference'
 authors:
   - admin
   - Sanmukh Kuppannagari
