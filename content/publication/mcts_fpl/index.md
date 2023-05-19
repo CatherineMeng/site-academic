@@ -1,23 +1,15 @@
 ---
-title: 'FPGA acceleration of Deep Reinforcement Learning Using On-chip Replay Management'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: 'Accelerating Monte-Carlo Tree Search on CPU-FPGA Heterogeneous Platform'
 authors:
   - admin
-  - Zhang Chi
+  - Rajgopal Kannan
   - Viktor Prasanna
 
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2022-05-17'
+date: '2022-08-23'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-05-17'
+publishDate: '2022-08-23'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +18,12 @@ publishDate: '2022-05-17'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 19th ACM International Conference on Computing Frontiers*
-publication_short: In *ACM/CF*
+publication: In *Proceedings of the 2022 32nd International Conference on Field-Programmable Logic and Applications*
+publication_short: In IEEE/FPL*
 
 # abstract: 
+
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -39,8 +33,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1GOy_ehtrjD5hzoOI2Pr-hoSv7vl1zeUA/view?usp=sharing'
-url_code: 'https://github.com/vermouth1992/hipc21'
+url_pdf: 'https://drive.google.com/file/d/1R2HcN5_io5evyFRWwvq1GkPBmqs_iqNb/view?usp=sharing'
+url_code: 'https://github.com/CatherineMeng/FPGA-Accelerated-MCTS/'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -51,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/content/publication/drl_cf/system_overview.pdf)'
+  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/content/publication/mcts_fpl/sys3.png)'
   focal_point: ''
   preview_only: false
 

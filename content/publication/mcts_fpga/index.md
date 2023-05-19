@@ -5,11 +5,12 @@ authors:
   - Rajgopal Kannan
   - Viktor Prasanna
 
-date: '2023-02-12'
+
+date: '2023-02-13'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-02-12'
+publishDate: '2023-02-13'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,8 +34,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://drive.google.com/file/d/1RIdF21H2Bb73IpRgtcmdsGBKTRxlcZ4Z/view'
+url_code: 'https://github.com/CatherineMeng/MCTS_CPU_FPGA'
 url_dataset: ''
 url_poster: ''
 url_project: ''
