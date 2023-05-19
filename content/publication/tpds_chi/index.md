@@ -26,7 +26,7 @@ abstract: Despite the recent success of Deep Reinforcement Learning (DRL) in sel
 tags:
 - Deep Reinforcement Learning
 - Heterogeneous Computing
-featured: false
+featured: true
 
 
 url_pdf: https://drive.google.com/drive/u/1/folders/1nabQX4KdmBlfyR2SZK4rNjWEgUWDXQFq

@@ -15,9 +15,10 @@ sections:
     id: featured
     content:
       title: Featured Projects
+      page_type: publication
       filters:
         folders:
-          - project
+          - publication
         featured_only: true
     design:
       columns: '2'
