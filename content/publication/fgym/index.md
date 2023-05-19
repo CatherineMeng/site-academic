@@ -1,29 +1,32 @@
 ---
-title: 'Accelerating Monte-Carlo Tree Search on CPU-FPGA Heterogeneous Platform'
+title: 'FGYM: Toolkit for Benchmarking FPGA based Reinforcement Learning Algorithms'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
+  - Nathaniel Peura
   - admin
-  - Rajgopal Kannan
+  - Sanmukh Kuppannagari
   - Viktor Prasanna
 
-date: '2022-08-23'
+date: '2021-08-30'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-23'
+publishDate: '2021-08-30'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['4']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2022 32nd International Conference on Field-Programmable Logic and Applications*
-publication_short: In IEEE/FPL
+publication: In *2021 31st International Conference on Field-Programmable Logic and Applications*
+publication_short: In *IEEE/FPL*
 
 # abstract: 
-
-tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -33,8 +36,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1R2HcN5_io5evyFRWwvq1GkPBmqs_iqNb/view?usp=sharing'
-url_code: 'https://github.com/CatherineMeng/FPGA-Accelerated-MCTS/'
+url_pdf: 'https://drive.google.com/file/d/1g5jjBPWnuVsrUogD8_wnobJzO92q7W7F/view'
+url_code: 'https://github.com/nathanpeura/FGym_EE599'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/content/publication/mcts_fpl/sys3.png)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

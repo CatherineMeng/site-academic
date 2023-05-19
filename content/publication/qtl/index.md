@@ -1,15 +1,21 @@
 ---
-title: 'Accelerating Monte-Carlo Tree Search on CPU-FPGA Heterogeneous Platform'
+title: 'QTAccel: A Generic FPGA based design for Q-Table based reinforcement learning accelerators'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Sanmukh Kuppannagari
+  - Rachit Rajat
+  - Ajitesh Srivastava
   - Rajgopal Kannan
   - Viktor Prasanna
-
-date: '2022-08-23'
+date: '2020-05-18'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-23'
+publishDate: '2020-05-18'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,12 +24,10 @@ publishDate: '2022-08-23'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2022 32nd International Conference on Field-Programmable Logic and Applications*
-publication_short: In IEEE/FPL
+publication: In *2020 IEEE International Parallel and Distributed Processing Symposium Workshops*
+publication_short: In *IEEE/IPDPSW*
 
 # abstract: 
-
-tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -33,8 +37,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://drive.google.com/file/d/1R2HcN5_io5evyFRWwvq1GkPBmqs_iqNb/view?usp=sharing'
-url_code: 'https://github.com/CatherineMeng/FPGA-Accelerated-MCTS/'
+url_pdf: 'https://drive.google.com/file/d/1LIlEgSUUSVD55haDcex0L7ODSbjR-JIN/view'
+url_code: 'https://github.com/CatherineMeng/q-learning-accel-fpga'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/content/publication/mcts_fpl/sys3.png)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
