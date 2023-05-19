@@ -29,7 +29,12 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      count: 0
+      offset: 0
+      order: desc
     design:
       columns: '2'
       view: citation
