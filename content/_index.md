@@ -56,30 +56,33 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Best Paper Award
-          # certificate_url: https://www.coursera.org
-          # date_end: ''
           date_start: '2022-05-20'
           description: 'Our paper "FPGA Acceleration of Deep Reinforcement Learning using On-Chip Replay Management" received Best Paper Award in the 2022 ACM International Conference on Computing Frontiers!'
           organization: 2022 ACM/CF
           organization_url: https://www.computingfrontiers.org/2022/
-          # title: Neural Networks and Deep Learning
           url: https://drive.google.com/file/d/1GOy_ehtrjD5hzoOI2Pr-hoSv7vl1zeUA/view
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - title: Outstanding Student Paper Award
+          date_start: '2020-10-16'
+          description: 'Our paper "How to efficiently train your ai agent? characterizing and evaluating deep reinforcement learning on heterogeneous platforms" received Outstanding Student Paper Award in the 2020 IEEE High Performance Extreme Computing Virtual Conference!'
+          organization: 2020 IEEE/HPEC
+          organization_url: https://ieee-hpec.org/2020/
+          url: https://drive.google.com/file/d/13DJXKtB1pHR6HlCx6_aBl-1i7c55esiQ/view
+        - title: Academic Service
+          date_start: '2022-10-01'
+          description: 'I am serving as the Proceedings Chair for HiPC 2022'
+          organization: 2022 IEEE/HiPC
+          organization_url: https://hipc.org/
+        - title: Scholarship Nomination
+          date_start: '2022-09-30'
+          description: 'I am selected as one of the finalists of the Ming Hsieh Ph.D. Scholar!'
+          organization: Department of Electrical and Computer Engineering, USC
+          # organization_url: https://hipc.org/
+        - title: Academic Service
+          date_start: '2023-03-01'
+          description: 'I am serving as the Publications Chair for FCCM 2023'
+          organization: 2023 IEEE/FCCM
+          organization_url: https://www.fccm.org/
+
     design:
       columns: '2'
   - block: experience
