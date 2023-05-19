@@ -143,14 +143,15 @@ sections:
         - name: Parallel Programming
           description: P-Threads, OpenMP, MPI, SYCL
           icon: sidebar
-          icon_pack: fab
+          icon_pack: fas
         - name: Hardware Design
-          description: High-Level Synthesis
+          description: High-Level Synthesis, OpenCL
           icon: gear-code
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Embedded Prototyping
+          description: Arduino, stm32 microprocessors, Raspberry Pi
+          # icon: camera-retro
+          icon: gear
           icon_pack: fas
   - block: contact
     id: contact
