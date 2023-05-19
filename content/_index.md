@@ -142,11 +142,11 @@ sections:
       items:
         - name: Parallel Programming
           description: P-Threads, OpenMP, MPI, SYCL
-          icon: sidebar
+          icon: layer-group
           icon_pack: fas
         - name: Hardware Design
           description: High-Level Synthesis, OpenCL
-          icon: gear-code
+          icon: microchip
           icon_pack: fas
         - name: Embedded Prototyping
           description: Arduino, stm32 microprocessors, Raspberry Pi
