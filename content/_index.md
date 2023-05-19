@@ -44,7 +44,8 @@ sections:
     id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      # title: 'Accomplish&shy;ments'
+      title: 'News'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -54,14 +55,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+        - title: Best Paper Award
+          # certificate_url: https://www.coursera.org
+          # date_end: ''
+          date_start: '2022-05-20'
+          description: 'Our paper "FPGA Acceleration of Deep Reinforcement Learning using On-Chip Replay Management" received Best Paper Award in the 2022 ACM International Conference on Computing Frontiers!'
+          organization: 2022 ACM/CF
+          organization_url: https://www.computingfrontiers.org/2022/
+          # title: Neural Networks and Deep Learning
+          url: https://drive.google.com/file/d/1GOy_ehtrjD5hzoOI2Pr-hoSv7vl1zeUA/view
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
