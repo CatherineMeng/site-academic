@@ -22,12 +22,12 @@ publication_types: ['1']
 publication: In *Proceedings of the 2021 IEEE 28th International Conference on High Performance Computing, Data, and Analytics*
 publication_short: In IEEE/HiPC
 
-# abstract: 
+abstract: Fractionally Strided Convolution (FSC) is a key operation in popular image-based Deep Learning models, for example, CNN back propagation, the decoding stage of convolutional auto-encoders and generative CNNs (GAN), etc. FSC typically performs  up-convolution on a 2-D grid image, i.e., expands it to a larger one, as compared to conventional (down)-convolution, resulting in more complex computation patterns. Specifically, it introduces additional interleaved zero-spacing (i.e. insertion and padding of zeros) in feature maps that impose excessive computation and memory access overheads on traditional convolution methods such as im2col. The resulting hardware under-utilization is especially severe in layers with large kernels and large strides, commonly seen in typical CNNs and Generative CNNs. In this paper, we propose a methodology to address this challenge using a multi-channel-multi-kernel parallel algorithm, kn2row, to eliminate zero-computations in FSC. We further develop a unified accelerator for kn2row-based convolution and FSC operations in High-Level Synthesis (HLS). Benefiting from the compute-reduction of kn2row, we achieve up to 14.6x improvement in effective resource utilization in typical convolutional auto-decoding layers, GAN layers and backward pass of Nature-CNN, a reinforcement learning bench-marking model. 
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/content/publication/fsc/Capture.PNG)'
+  caption: 'A multi-channel-multi-kernel kn2row approach for FSC'
   focal_point: ''
   preview_only: false
 
