@@ -20,7 +20,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 2021 IEEE 28th International Conference on High Performance Computing, Data, and Analytics*
-publication_short: In IEEE/HiPC*
+publication_short: In IEEE/HiPC
 
 # abstract: 
 

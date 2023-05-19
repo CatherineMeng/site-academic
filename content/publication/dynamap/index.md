@@ -20,7 +20,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays*
-publication_short: In ACM/FPGA*
+publication_short: In ACM/FPGA
 
 # abstract: 
 
