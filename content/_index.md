@@ -132,7 +132,6 @@ sections:
           date_end: '2018-06-20'
           description: |2-
               Prototyping for Animatronics and games;
-
               Research on embedded voice recognition and computer vision applications in toys.
     design:
       columns: '2'
