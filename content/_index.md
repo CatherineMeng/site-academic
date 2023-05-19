@@ -179,6 +179,13 @@ sections:
           captcha: false
     design:
       columns: '2'
+  - block: markdown
+    id: views
+    content:
+      title: Views
+      subtitle: ''
+      text: <body><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=V5eXDils1-8rmmTVaHNwHPl8Bmyfk90KmWNBqBHFbUk&cl=ffffff&w=a"></script></body>
+      # Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
