@@ -101,7 +101,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: University of Southern California
           company_url: ''
-          company_logo: mh.png
+          company_logo: mh
           location: California
           date_start: '2020-01-01'
           date_end: '2021-12-03'
