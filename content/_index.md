@@ -55,15 +55,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.computingfrontiers.org/2022/
-          title: Best Paper Award
+        - title: Best Paper Award
           date_start: '2022-05-20'
           description: 'Our paper "FPGA Acceleration of Deep Reinforcement Learning using On-Chip Replay Management" received Best Paper Award in the 2022 ACM International Conference on Computing Frontiers!'
           organization: 2022 ACM/CF
           organization_url: https://www.computingfrontiers.org/2022/
           url: https://drive.google.com/file/d/1GOy_ehtrjD5hzoOI2Pr-hoSv7vl1zeUA/view
-        - certificate_url: https://ieee-hpec.org/2020/
-          title: Outstanding Student Paper Award
+        - title: Outstanding Student Paper Award
           date_start: '2020-10-16'
           description: 'Our paper "How to efficiently train your ai agent? characterizing and evaluating deep reinforcement learning on heterogeneous platforms" received Outstanding Student Paper Award in the 2020 IEEE High Performance Extreme Computing Virtual Conference!'
           organization: 2020 IEEE/HPEC
@@ -74,8 +72,7 @@ sections:
         #   description: 'I am serving as the Proceedings Chair for HiPC 2022'
         #   organization: 2022 IEEE/HiPC
         #   organization_url: https://hipc.org/
-        - certificate_url: https://minghsiehece.usc.edu/
-          title: Scholarship Nomination
+        - title: Scholarship Nomination
           date_start: '2022-09-30'
           description: 'I am selected as one of the finalists of the Ming Hsieh Ph.D. Scholar!'
           organization: Department of Electrical and Computer Engineering, USC
@@ -101,27 +98,42 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Teaching Assistant
+          company: University of Southern California
+          company_url: ''
+          company_logo: mh.png
+          location: California
+          date_start: '2020-01-01'
+          date_end: '2021-12-03'
+          description: |2-
+              Taught courses:
+
+              * Parallel and Distributed Computing
+              * Accelerated Computing using FPGAs
+              * Parallel Programming
+        - title: Undergraduate Teaching Assistant
+          company: Rensselaer Polytechnic Institute
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2017-01-01'
+          date_end: '2019-01-01'
           description: |2-
-              Responsibilities include:
+              Taught courses:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Embedded Control
+              * Foundation of Computer Science
+        - title: Electronics Engineer (Intern)
+          company: Hasbro. Inc
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2018-01-01'
+          date_end: '2018-06-20'
+          description: 
+          Prototyping for Animatronics and games;
+
+          Research on embedded voice recognition and computer vision applications in toys.
     design:
       columns: '2'
   - block: features
