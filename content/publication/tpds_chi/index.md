@@ -26,10 +26,10 @@ abstract: The computation primitives of DRL with Prioritized Replay Buffer inclu
 tags:
 - Deep Reinforcement Learning
 - Heterogeneous Computing
-featured: true
+featured: false
 
 
-url_pdf: https://drive.google.com/drive/u/1/folders/1nabQX4KdmBlfyR2SZK4rNjWEgUWDXQFq
+url_pdf: https://drive.google.com/file/d/1EI0yEW43fzTFfCcz88BJ74O9uEHMFI_Z/view?usp=sharing
 url_code: 'https://github.com/vermouth1992/hipc21'
 url_dataset: ''
 url_poster: ''

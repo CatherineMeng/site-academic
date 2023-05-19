@@ -29,10 +29,10 @@ publication_types: ['1']
 publication: In *Proceedings of the 19th ACM International Conference on Computing Frontiers*
 publication_short: In *ACM/CF*
 
-# abstract: 
+abstract: A major bottleneck in parallelizing deep reinforcement learning (DRL) is in the high latency to perform various operations used to update the Prioritized Replay Buffer on CPU. The low arithmetic intensity of these operations leads to severe under-utilization of the SIMT computation power of GPUs. In this work, we propose a high-throughput on-chip accelerator for Prioritized Replay Buffer and learner that efficient allocates computation and memory resources to saturate the FPGA computation power. Our design features hardware pipelining on FPGA such that the latency of replay operations is completely hidden. 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -41,17 +41,17 @@ featured: false
 
 url_pdf: 'https://drive.google.com/file/d/1GOy_ehtrjD5hzoOI2Pr-hoSv7vl1zeUA/view?usp=sharing'
 url_code: 'https://github.com/vermouth1992/hipc21'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'High Level [**Diagram**](https://github.com/CatherineMeng/site-academic/blob/main/content/publication/drl_cf/system_overview.pdf)'
+  caption: 'DRL System'
   focal_point: ''
   preview_only: false
 
@@ -59,6 +59,4 @@ image:
 
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+
