@@ -101,7 +101,7 @@ sections:
         - title: Graduate Teaching Assistant
           company: University of Southern California
           company_url: ''
-          company_logo: mh
+          company_logo: usc
           location: California
           date_start: '2020-01-01'
           date_end: '2021-12-03'
@@ -114,7 +114,7 @@ sections:
         - title: Undergraduate Teaching Assistant
           company: Rensselaer Polytechnic Institute
           company_url: ''
-          company_logo: org-gc
+          company_logo: rpi
           location: California
           date_start: '2017-01-01'
           date_end: '2019-01-01'
@@ -126,7 +126,7 @@ sections:
         - title: Electronics Engineer (Intern)
           company: Hasbro. Inc
           company_url: ''
-          company_logo: org-x
+          company_logo: Hasbro
           location: California
           date_start: '2018-01-01'
           date_end: '2018-06-20'
