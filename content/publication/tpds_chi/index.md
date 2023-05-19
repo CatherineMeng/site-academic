@@ -5,11 +5,11 @@ authors:
 - admin
 - Viktor Prasanna
 
-date: "2023-4-5"
+date: "2023-04-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-4-5"
+publishDate: "2023-04-05"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
