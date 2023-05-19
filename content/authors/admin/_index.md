@@ -22,7 +22,7 @@ organizations:
     url: https://www.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is accelerating computationally intensive algorithms on heterogeneous computing platforms. I am currently working on accelerating Deep Reinforcement Learning algorithms on shared-memory, data parallel architecture (CPU, GPU) and spatial architecture (FPGA).
+bio: I co-optimize algorithm and hardware for deploying parallel AI workloads on heterogeneous platforms.
 
 # Interests to show in About widget
 interests:
