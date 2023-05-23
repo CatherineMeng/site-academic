@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuan Meng (孟源)
+title: Yuan Meng
 
 # Full name (for SEO)
 first_name: Yuan
