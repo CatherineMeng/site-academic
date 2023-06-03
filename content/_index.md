@@ -55,6 +55,16 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Academic Service
+          date_start: '2023-03-01'
+          description: 'I am serving as the Publications Chair for FCCM 2023'
+          organization: 2023 IEEE/FCCM
+          organization_url: https://www.fccm.org/
+        - title: Academic Service
+          date_start: '2022-10-01'
+          description: 'I am serving as the Proceedings Chair for HiPC 2022 and 2023'
+          organization: 2022-2023 IEEE/HiPC
+          organization_url: https://hipc.org/
         - title: Best Paper Award
           date_start: '2022-05-20'
           description: 'Our paper "FPGA Acceleration of Deep Reinforcement Learning using On-Chip Replay Management" received Best Paper Award in the 2022 ACM International Conference on Computing Frontiers!'
@@ -67,21 +77,12 @@ sections:
           organization: 2020 IEEE/HPEC
           organization_url: https://ieee-hpec.org/2020/
           url: https://drive.google.com/file/d/13DJXKtB1pHR6HlCx6_aBl-1i7c55esiQ/view
-        # - title: Academic Service
-        #   date_start: '2022-10-01'
-        #   description: 'I am serving as the Proceedings Chair for HiPC 2022'
-        #   organization: 2022 IEEE/HiPC
-        #   organization_url: https://hipc.org/
         - title: Scholarship Nomination
           date_start: '2022-09-30'
           description: 'I am selected as one of the finalists of the Ming Hsieh Ph.D. Scholar!'
           organization: Department of Electrical and Computer Engineering, USC
           # organization_url: https://hipc.org/
-        # - title: Academic Service
-        #   date_start: '2023-03-01'
-        #   description: 'I am serving as the Publications Chair for FCCM 2023'
-        #   organization: 2023 IEEE/FCCM
-        #   organization_url: https://www.fccm.org/
+
 
     design:
       columns: '2'

@@ -19,7 +19,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 2022 32nd International Conference on Field-Programmable Logic and Applications*
-publication_short: In IEEE/FPL
+publication_short: In *IEEE/FPL*
 
 abstract: Monte Carlo Tree Search (MCTS) methods have achieved great success in many Artificial Intelligence (AI) benchmarks. The in-tree operations become a critical performance bottleneck in realizing parallel MCTS on CPUs. In this work, we develop a scalable CPU-FPGA system for Tree-Parallel MCTS. We propose a novel decomposition and mapping of MCTS data structure and computation onto CPU and FPGA to reduce communication and coordination. High scalability of our system is achieved by encapsulating in-tree operations in an SRAM-based FPGA accelerator. To lower the high data access latency and inter-worker synchronization overheads, we develop several hardware optimizations. We show that by using our accelerator, we obtain up to 35 times speedup for in-tree operations, and superior scalability wrt number of parallel workers than state-of-the-art parallel MCTS implementations on CPU.
 

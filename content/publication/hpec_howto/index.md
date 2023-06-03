@@ -21,7 +21,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 2020 IEEE High Performance Extreme Computing Conference*
-publication_short: In IEEE/HPEC
+publication_short: In *IEEE/HPEC*
 
 # abstract: 
 

@@ -20,7 +20,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays*
-publication_short: In ACM/FPGA
+publication_short: In *ACM/FPGA*
 
 abstract: Emerging CNNs have diverse per-layer computation characteristics including parallelism, arithmetic intensity, locality, and memory footprint. Per-layer strategy selection and fine-grained tuning is required to achieve low end-to-end latency. In this paper, we address these problems by an algorithm-architecture co-optimization framework, DYNAMAP, consisting of (1) a unified hardware overlay that can be reused across layers, supporting dynamic mapping of all three families of popular convolution algorithms; (2) a novel software Design Space Exploration (DSE) flow that chooses the optimal strategy mapping at compile time. We show that the algorithm mapping space increases exponentially with network depth, and while the optimal algorithm selection problem is NP-hard in general, by exploiting the series-parallel structure of CNN models, we demonstrate a polynomial-time solution for optimal algorithm mapping on SOTA CNN graphs.
 

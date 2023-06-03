@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*IEEE Transactions on Parallel and Distributed Systems*(1)"
-publication_short: "IEEE/TPDS"
+publication_short: In *IEEE/TPDS*
 
 tags:
   - Proximal Policy Optimization
