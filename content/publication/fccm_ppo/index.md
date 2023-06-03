@@ -1,5 +1,5 @@
 ---
-title: "Accelerating proximal policy optimization on cpu-fpga heterogeneous platforms"
+title: "Accelerating Proximal Policy Optimization on CPU-FPGA Heterogeneous Platforms"
 authors:
 - admin
 - Sanmukh Kuppannagari
