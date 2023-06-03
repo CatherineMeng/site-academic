@@ -82,8 +82,6 @@ sections:
           description: 'I am selected as one of the finalists of the Ming Hsieh Ph.D. Scholar!'
           organization: Department of Electrical and Computer Engineering, USC
           # organization_url: https://hipc.org/
-
-
     design:
       columns: '2'
   - block: experience
