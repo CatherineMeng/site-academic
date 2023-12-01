@@ -72,7 +72,7 @@ email: 'ymeng643@usc.edu'
 highlight_name: true
 ---
 
-Yuan Meng is a Ph.D candidate in Computer Engineering at University of Southern California under the advisement of professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/).
-Her research interests are accelerating computationally intensive algorithms on heterogeneous computing platforms, and developing portable software and libraries for the same. Her current focus is accelerating Deep Reinforcement Learning algorithms on composable infrastructures with shared-memory, data parallel architecture (CPU, GPU) and spatial architecture (FPGA).
+Yuan Meng is a Ph.D. candidate in Computer Engineering at the University of Southern California under the advisement of Professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/).
+Her research interests are accelerating computationally intensive algorithms on heterogeneous computing platforms, and developing portable software and libraries for the same. Her current focus is accelerating Reinforcement Learning algorithms and Deep Learning Models on emerging infrastructures with shared memory, data parallel architecture (CPU, GPU), and spatial architecture (FPGA).
 
 {style="text-align: justify;"}
