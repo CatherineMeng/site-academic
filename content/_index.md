@@ -142,7 +142,7 @@ sections:
           description: P-Threads, OpenMP, MPI, SYCL
           icon: layer-group
           icon_pack: fas
-        - name: Hardware Design
+        - name: Accelerator Design
           description: High-Level Synthesis, OpenCL
           icon: microchip
           icon_pack: fas
