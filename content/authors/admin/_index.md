@@ -14,12 +14,12 @@ last_name: Meng
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Computer Engineering
-
+role: Senior SDE - AI Engine Architecture Team
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Southern California
-    url: https://www.usc.edu/
+  - name: Advanced Micro Devices, Inc. (AMD)
+    url: https://www.amd.com/en.html
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: I co-optimize algorithm and hardware for deploying parallel AI workloads on heterogeneous platforms.
@@ -29,6 +29,7 @@ interests:
   - Heterogeneous Computing
   - Artificial Intelligence
   - FPGA
+  - AI Engines, NPUs
   - Parallel Programming
 
 # Education to show in About widget
@@ -66,7 +67,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ymeng643@usc.edu'
+email: 'myuan2009@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
