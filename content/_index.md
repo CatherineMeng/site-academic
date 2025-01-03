@@ -156,14 +156,14 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: ymeng643@usc.edu
+      email: myuan2009@gmail.com
       # phone: 518 961 3768
       # appointment_url: 'https://calendly.com'
       address:
-        street: 3740 McClintock Ave
-        city: Los Angeles
+        street: 2100 Logic Dr
+        city: San Jose
         region: CA
-        postcode: '90089'
+        postcode: '95124'
         country: United States
         country_code: US
       # Automatically link email and phone or display as text?
