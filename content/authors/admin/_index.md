@@ -37,7 +37,7 @@ education:
   courses:
     - course: PhD in Computer Engineering
       institution: University of Southern California
-      year: Ongoing
+      year: 2024
     - course: BSc in Electrical and Computer Engineering
       institution: Rensselaer Polytechnic Institute
       year: 2019
